@@ -18,6 +18,7 @@ public class PriorityQue {
         System.out.println(Que);
         Que.remove(15);// remove element
         System.out.println();
-
+Que.toArray();
+        System.out.println(Que);
     }
 }
